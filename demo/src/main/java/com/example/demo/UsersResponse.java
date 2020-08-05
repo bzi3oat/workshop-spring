@@ -9,6 +9,8 @@ public class UsersResponse {
         this.name = name;
     }
 
+    // POJO (Plain Old Java Object)
+    // Getter/Setter methods
     public int getId() {
         return id;
     }
